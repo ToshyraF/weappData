@@ -1,0 +1,29 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "etf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ToshyraF/weappData.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "ajax"
+  ],
+  "author": "ToshyraF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToshyraF/weappData/issues"
+  },
+  "homepage": "https://github.com/ToshyraF/weappData#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0"
+  }
+}
